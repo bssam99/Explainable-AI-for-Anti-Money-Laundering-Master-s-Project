@@ -258,7 +258,7 @@ See [docs/feature_dictionary.md](./docs/feature_dictionary.md) for the full list
 
 | Name | Role | GitHub |
 |---|---|---|
-| Bassam Osman | Team Leader, GNN model and PGExplainer | [@bssam99](https://github.com/bssam99) |
+| Bassam Ahmed | Team Leader, GNN model and PGExplainer | [@bssam99](https://github.com/bssam99) |
 | Salma Abdelfattah | Data preprocessing, feature engineering and graph construction | [@Salmaabdelfattah73](https://github.com/Salmaabdelfattah73) |
 | Khaled Ashoush | LLM layer and evaluation | [@khaledashoush](https://github.com/khaledashoush) |
 | Ahmed Nafea | Dashboard | [@a7mednafea](https://github.com/a7mednafea) |
